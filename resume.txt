@@ -1,0 +1,74 @@
+# -- Professional Summary -- 
+# -- A mathematician. I work in IT since 2013. DevOps from 2017 --
+
+name:     Kirill Demtchenko
+job:      DevOps Engineer
+
+personal_information:
+    Phone:          +79178827742
+    Email:          kirill.demtchenko@outlook.com
+    City:           Innopolis, 420500, Russia
+    Address:        Sportivnaya St
+    Place of birth: Tomsk
+    Date of birth:  1991-05-17
+employment_history:
+     IT Engineer at Sbertech: 
+         work_period: September 2016 - Current time
+         responsibility:
+             - Development of user reporting (Oracle and SAP BI). 
+             - Support for the working capacity of development servers and auxiliary systems. 
+             - Organization and support the work of the team in git, jira, confluence. 
+             - The implementation of the DevOps practices in the work of the team CI/CDl/CDp. Automation with Jenkins and Ansible.
+     Specialist of the Banking Products Management Department of the Information Technology Department at Promregion Bank:
+         work_period: February 2015 - August 2016 
+         responsibility:
+             - Ensuring the efficiency of banking systems (CFT Retail Bank (based on Oracle), Rs-Bank).
+             - Completion of the functional, development of user reports in the Oracle environment (PL/SQL, VBA).
+             - Completion of the functionality of the customer's programs (Dephi / Firebird). 
+             - Working with Tortoise SVN. 
+             - User support.
+     System Administrator at Iceberg Company:
+         work_period: February 2014 - February 2015 
+         responsibility: 
+             - Support for the uninterrupted operation of company servers, employee workstations and PBX.
+             - Setting up security devices (surveillance cameras, tablets, navigators, etc.).
+             - Development and support of the company's site (CMS WordPress, CSS, JavaScript, HTML).
+     Engineer at Qwerty computers:
+         work_period: October 2013 - December 2013 
+         responsibility: 
+             - System administration and outsourcing for many companies
+education:
+    mathematics:
+        university: Tomsk State University
+        degree: Bachelor of mathematics
+        period: September 2009 - June 2013 
+    informatics:
+        university: Tomsk State University    
+        faculty:    Hummanity Problems in Informatics
+        period:     September 2014 - December 2014 
+skills:
+    PL/SQL:     Experienced
+    Git:        Experienced
+    Unix/Linux: Experienced
+    Groovy:     Skillful   
+    Java:       Skillful   
+    Jenkins:    Skillful   
+    Ansible:    Skillful   
+    Shell:      Skillful   
+    Python:     Beginner   
+    Docker:     Beginner   
+languages:
+    English: Very good command 
+    Russian: Native speaker 
+courses:
+    - Java Basic at TUSUR university 
+    - Linux Basic and other at stepic.org
+    - Some bank courses
+    - Some courses of soft skills
+    - Some courses of hard skills
+hobbies:
+    - UX/UI
+    - AI/ML
+    - Snowboarding/Skateboarding
+    - Runnig
+    - Psychology
