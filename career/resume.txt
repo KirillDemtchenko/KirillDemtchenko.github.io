@@ -1,5 +1,6 @@
 # -- Professional Summary -- 
 # -- A mathematician. I work in IT since 2013. DevOps from 2017 --
+# -- SCRUM master since 2018
 
 name:     Kirill Demtchenko
 job:      DevOps Engineer
