@@ -75,5 +75,6 @@ hobbies:
     - Snowboarding/Skateboarding
     - Runnig
     - Psychology
-other:
-    DevOps MeetUp #1 Innopolis
+conferences:
+    DevoOps 2018
+    DevOps MeetUp #1 Innopolis (org)
