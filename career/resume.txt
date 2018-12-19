@@ -69,12 +69,12 @@ courses:
     - Some bank courses
     - Some courses of soft skills
     - Some courses of hard skills
+conferences:
+    DevoOps 2018
+    DevOps MeetUp #1 Innopolis (org)
 hobbies:
     - UX/UI
     - AI/ML
     - Snowboarding/Skateboarding
     - Runnig
     - Psychology
-conferences:
-    DevoOps 2018
-    DevOps MeetUp #1 Innopolis (org)
