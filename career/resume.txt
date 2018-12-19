@@ -57,7 +57,9 @@ skills:
     Ansible:    Skillful   
     Shell:      Skillful   
     Python:     Beginner   
-    Docker:     Beginner   
+    Docker:     Beginner 
+    OpenShift:  Beginner
+    OpenStack:  Beginner
 languages:
     English: Very good command 
     Russian: Native speaker 
@@ -73,3 +75,5 @@ hobbies:
     - Snowboarding/Skateboarding
     - Runnig
     - Psychology
+other:
+    DevOps MeetUp #1 Innopolis
