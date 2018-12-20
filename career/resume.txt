@@ -51,6 +51,7 @@ skills:
     PL/SQL:     Experienced
     Git:        Experienced
     Unix/Linux: Experienced
+    DBA Oracle: Skillful
     Groovy:     Skillful   
     Java:       Skillful   
     Jenkins:    Skillful   
