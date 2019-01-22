@@ -61,6 +61,7 @@ skills:
     Docker:     Beginner 
     OpenShift:  Beginner
     OpenStack:  Beginner
+    AWS:        Beginner
 languages:
     English: Very good command 
     Russian: Native speaker 
