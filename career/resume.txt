@@ -57,11 +57,11 @@ skills:
     Jenkins:    Skillful   
     Ansible:    Skillful   
     Shell:      Skillful   
-    Python:     Beginner   
-    Docker:     Beginner 
-    OpenShift:  Beginner
-    OpenStack:  Beginner
-    AWS:        Beginner
+    Docker:     Skillful 
+    OpenShift:  Skillful
+    OpenStack:  Skillful
+    AWS:        Skillful    
+    Python:     Beginner
 languages:
     English: Very good command 
     Russian: Native speaker 
